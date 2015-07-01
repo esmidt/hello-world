@@ -1,4 +1,4 @@
 # Hello world!
-Just for practic
+Just for practice
 ###Subheader
-This is a subsectione
+This is a subsection
